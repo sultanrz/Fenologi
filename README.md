@@ -70,7 +70,7 @@ Berikut adalah visualisasi jumlah frekuensi berbunga dan berbuah dari berbagai f
 ## Perbandingan Visualisasi (a - e) dengan Jurnal
 
 ### 1. Visualisasi A (Tabel Proporsi Family Tumbuhan)
-![Visualisasi A](img/a.png)
+![Visualisasi A](IMG/a.png)
 
 - **Gambar A**: Menunjukkan distribusi jumlah spesies untuk setiap family tumbuhan dengan visualisasi kotak (tree map). Family **Myrtaceae** memiliki persentase terbesar, diikuti oleh **Anacardiaceae** dan **Sapotaceae**.
 - **Jurnal**: Jurnal cenderung lebih fokus pada tren spesifik, seperti jumlah spesies berbunga atau berbuah, dibandingkan proporsi family secara keseluruhan.
@@ -78,7 +78,7 @@ Berikut adalah visualisasi jumlah frekuensi berbunga dan berbuah dari berbagai f
 **Perbedaan Utama**: Gambar A menyoroti komposisi family secara keseluruhan, sementara jurnal mungkin menekankan tren berbunga dan berbuah tanpa fokus utama pada proporsi family.
 
 ### 2. Visualisasi B (Jumlah Spesies Berbunga)
-![Visualisasi B](img/b.png)
+![Visualisasi B](IMG/b.png)
 
 - **Gambar B**: Menunjukkan tren jumlah spesies berbunga dari 2019-2023. **Dipterocarpaceae** memiliki tren lebih rendah dibandingkan spesies lainnya.
 - **Jurnal**: Jurnal cenderung menampilkan distribusi bulanan atau tahunan untuk setiap family dan siklus berbunga yang lebih detail.
@@ -86,7 +86,7 @@ Berikut adalah visualisasi jumlah frekuensi berbunga dan berbuah dari berbagai f
 **Perbedaan Utama**: Visualisasi ini menampilkan agregasi tahunan, sedangkan jurnal lebih menekankan pada siklus musiman atau bulanan.
 
 ### 3. Visualisasi C (Jumlah Spesies Berbuah)
-![Visualisasi C](img/c.png)
+![Visualisasi C](IMG/c.png)
 
 - **Gambar C**: Menunjukkan tren jumlah spesies berbuah dari 2019-2023, dengan spesies non-Dipterocarpaceae mendominasi.
 - **Jurnal**: Jurnal menekankan distribusi temporal berbuah secara musiman untuk setiap family.
@@ -94,7 +94,7 @@ Berikut adalah visualisasi jumlah frekuensi berbunga dan berbuah dari berbagai f
 **Perbedaan Utama**: Gambar ini menampilkan agregasi tahunan, sedangkan jurnal cenderung menunjukkan tren musiman atau bulanan.
 
 ### 4. Visualisasi D (Anomali Suhu Minimum)
-![Visualisasi D](img/d.png)
+![Visualisasi D](IMG/d.png)
 
 - **Gambar D**: Menampilkan anomali suhu minimum dari 2019-2023, dengan peningkatan signifikan pada tahun 2020.
 - **Jurnal**: Jurnal mungkin menghubungkan perubahan suhu dengan pola berbunga dan berbuah.
@@ -102,7 +102,7 @@ Berikut adalah visualisasi jumlah frekuensi berbunga dan berbuah dari berbagai f
 **Perbedaan Utama**: Gambar D berfokus pada tren anomali suhu, sedangkan jurnal mungkin mengaitkan perubahan suhu dengan siklus berbunga dan berbuah.
 
 ### 5. Visualisasi E (Anomali Curah Hujan)
-![Visualisasi E](img/e.png)
+![Visualisasi E](IMG/e.png)
 
 - **Gambar E**: Menampilkan anomali curah hujan dengan lonjakan pada tahun 2021.
 - **Jurnal**: Jurnal mungkin menggunakan data curah hujan untuk menganalisis dampaknya pada pola berbunga dan berbuah.
